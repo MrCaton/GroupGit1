@@ -11,6 +11,7 @@ namespace GroupGit1
 {
     public class Program
     {
+        // Testar
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
