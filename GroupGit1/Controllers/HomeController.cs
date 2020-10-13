@@ -32,6 +32,10 @@ namespace GroupGit1.Controllers
         {
             return View();
         }
+        public IActionResult Ivan()
+        {
+            return View();
+        }
 
         public IActionResult David()
         {
